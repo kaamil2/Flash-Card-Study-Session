@@ -1,0 +1,6 @@
+5
+3 Hearts
+6 Spades
+K Hearts
+A Diamonds
+2 Clubs

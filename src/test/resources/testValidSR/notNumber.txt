@@ -1,0 +1,2 @@
+src/test/resources/SampleOutput/output2.sr
+four

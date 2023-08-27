@@ -1,0 +1,4 @@
+src/test/resources/SampleOutput/willExit.sr
+2
+3
+four

@@ -1,0 +1,4 @@
+src/test/resources/SampleOutput/hardandEasyQuestions.sr
+10
+2
+1
